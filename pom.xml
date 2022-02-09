@@ -12,7 +12,7 @@
 	<properties>
 		<spring.version>5.2.7.RELEASE</spring.version>
 		<aspectj.version>1.9.1</aspectj.version>
-		<shiro.version>1.4.0</shiro.version>
+		<shiro.version>1.7.1</shiro.version>
 		<cxf.version>3.2.5</cxf.version>
 		<slf4j.version>1.7.25</slf4j.version>		
 		
