@@ -10,7 +10,7 @@
 
 
 	<properties>
-		<spring.version>5.2.7.RELEASE</spring.version>
+		<spring.version>5.3.19</spring.version>
 		<aspectj.version>1.9.1</aspectj.version>
 		<shiro.version>1.4.0</shiro.version>
 		<cxf.version>3.2.5</cxf.version>
